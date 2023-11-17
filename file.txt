@@ -1,0 +1,17 @@
+prueba 1
+
+CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
+$ git add file.txt
+
+CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
+$ ls -l
+total 1
+-rw-r--r-- 1 CONTABLE 197121 8 nov 17 10:39 file.txt
+
+CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
+$ git commit
+[master (root-commit) ee38c18] primer commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file.txt
+
+
