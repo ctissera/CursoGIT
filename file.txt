@@ -1,6 +1,10 @@
 prueba 1
 
 CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
+$ git init
+
+
+CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
 $ git add file.txt
 
 CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
@@ -18,3 +22,6 @@ $ git commit
 git config --global credential.helper store
 
 git pull
+
+
+git push -u origin master
