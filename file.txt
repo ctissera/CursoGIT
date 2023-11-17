@@ -25,3 +25,5 @@ git pull
 
 
 git push -u origin master
+
+agregado en la wec
