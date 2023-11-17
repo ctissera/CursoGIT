@@ -15,3 +15,6 @@ $ git commit
  create mode 100644 file.txt
 
 
+git config --global credential.helper store
+
+git pull
