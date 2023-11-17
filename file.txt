@@ -32,7 +32,7 @@ CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
 
 	- git push -u origin master
 
-agregado en la wec
+agregado en la web
 
 	- git pull
 
