@@ -1,11 +1,15 @@
 prueba 1
 
 CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
-$ git init
+$ 
+
+	- git init
 
 
 CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
-$ git add file.txt
+
+	- git add file.txt
+	- git add .
 
 CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
 $ ls -l
@@ -13,17 +17,25 @@ total 1
 -rw-r--r-- 1 CONTABLE 197121 8 nov 17 10:39 file.txt
 
 CONTABLE@CONTABLE-PC MINGW64 /e/GITpruebas (master)
-$ git commit
+
+	- git commit -m "Comentario"
+
 [master (root-commit) ee38c18] primer commit
  1 file changed, 1 insertion(+)
  create mode 100644 file.txt
 
 
-git config --global credential.helper store
+	git config --global credential.helper store
 
-git pull
+	git pull
 
 
-git push -u origin master
+	- git push -u origin master
 
 agregado en la wec
+
+	- git pull
+
+
+	- git tag 171123v1 -m "Agrego tag"
+	- git push --tags
